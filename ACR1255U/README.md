@@ -56,7 +56,16 @@ Installation
 3. To use the class library to your project, copy "acsbt-x.y.z.jar" to
    the "libs" folder of your project.
 
+Android Studio installation
+---------------------------
 
+ 1. Open Android Studio.
+
+ 2. Select Import project (Eclipse ADT, Gradle, etc.)
+
+ 3. In the Project Files, Select app -> app -> build.gradle
+
+ 4. Set compileSdkVersion and targetSdkVersion to 23.
 
 History
 -------
